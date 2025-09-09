@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230413</CreaDate><CreaTime>09321900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="e:\arcgis10.5\later\desktop\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\StreamToFeature" Date="20230413" Time="093219">StreamToFeature heliu_2000.tif liuxiang.tif E:\College\project\GD\keshan\hydrink\hewangshilianghua.shp SIMPLIFY</Process></lineage></DataProperties></Esri></metadata>
